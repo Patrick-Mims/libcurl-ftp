@@ -13,8 +13,7 @@ int main(void)
     int rc;
     void *result = NULL;
 
-    // create new singlyList 
-
+    // create new singly linked list 
     struct Node *head = newSinglyLinkedList();
 
     // create new stack
